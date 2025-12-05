@@ -1,7 +1,13 @@
-Welcome, I'm **Aria** 🌱
+Hi, I'm **Aria** 🌱
 
-A backend developer specialized in **.NET Technologies** and **Web Development**. I enjoy building robust, maintainable systems with a strong focus on **Software Architectures**, **Design Patterns**, and **Clean Coding**.
+**Backend Developer | .NET**
 
-Contact me for collaboration or questions via email 🍃
+I specialize in building robust, maintainable, and scalable backend systems using the .NET ecosystem.  
+My work is heavily focused on software architecture, design patterns, and writing clean, reliable code.
 
-Thanks 🌊
+I'm committed to continuous learning, improving, and exploring new ways to build better systems.
+
+If you’d like to collaborate or have any questions, feel free to reach out 🍃  
+Email: ariagm.tech@gmail.com
+
+Thanks for visiting 🌊
